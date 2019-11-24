@@ -1,0 +1,1 @@
+See more: https://medium.com/@punpun/build-opencv4-for-android-with-gnustl-and-lower-native-api-level-daf15f4da476
